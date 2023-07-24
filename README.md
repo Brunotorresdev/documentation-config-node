@@ -18,7 +18,7 @@ sudo apt install curl
 ```
 ##Passo 4: Com as dependências instaladas, agora você pode baixar e instalar o NVM usando o comando curl. O seguinte comando instalará a versão mais recente do NVM:
   ```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/latest/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 ```
 
 ## Passo 5: Para verificar se o NVM foi instalado corretamente, digite o seguinte comando:
